@@ -21,6 +21,18 @@ body {
     display: flex;
 }
 
+#sambutan {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 16px;
+    box-shadow: 10px 10px 8px 0 rgb(207, 224, 229);
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+
 .button {
     flex-basis: 25%;
 
