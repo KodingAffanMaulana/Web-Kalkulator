@@ -23,15 +23,28 @@ body {
 
 #sambutan {
     text-align: center;
-    color: white;
-    background-color: black;
-    padding: 16px;
-    box-shadow: 10px 10px 8px 0 rgb(207, 224, 229);
+    color: black;
+    box-shadow: 10px 10px 8px 0 rgb(236, 243, 133);
     border-radius: 5px;
     padding: 30px;
-    margin-top: 20px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #ddd;
+    width: 80%;
+    margin: 30px auto 0 auto;
 }
 
+footer {
+    text-align: center;
+    box-shadow: 10px 10px 8px 0 rgb(236, 243, 133);
+    border-radius: 5px;
+    padding: 5px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #ddd;
+    width: 100%;
+    margin: 15px auto 0 auto;
+}
 
 .button {
     flex-basis: 25%;
